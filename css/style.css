@@ -1,0 +1,62 @@
+body {
+    font-family: Roboto;
+}
+.our-team { 
+    background: #F5F4FA;
+}
+
+.links {
+    color: #212121;
+ }
+
+.links:hover ,
+.links:focus {
+    color: #2196F3; }
+
+.nav {
+    color: #757575; }
+
+.nav:hover ,
+.nav:focus {
+    color: #2196F3;
+}
+.nav:active {
+color: tomato;
+}
+
+.hero {
+    background: #2F303A;
+    }
+.title {
+    color: #FFFFFF;
+    font-family: Roboto;
+    font-size: 44px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 60px;
+    letter-spacing: 0.06em;
+    text-align: center;
+}
+
+button {
+font-family: Roboto;
+background: #2196F3;
+color: #FFFFFF;
+font-family: Roboto;
+font-size: 16px;
+font-style: normal;
+font-weight: 700;
+line-height: 30px;
+letter-spacing: 0.06em;
+text-align: center;
+}
+
+a {     
+text-decoration: none;
+color: inherit;
+  }     
+
+  footer {
+    background: #2F303A;
+
+  }
