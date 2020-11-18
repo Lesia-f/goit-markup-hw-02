@@ -3,7 +3,8 @@
     --title-text-color: #212121;
     --accent-color: #2196f3;
     --accent-color-2: #ffffff;
-    --background-color: #2F303A;  }
+    --background-color: #2F303A;
+    --background-color-2: #F5F4FA;  }
 
 body {
     font-family: 'Roboto', sans-serif;
@@ -26,7 +27,7 @@ ul {
     list-style-type: none;
 }
 .our-team { 
-    background: #F5F4FA;
+    background: var(--background-color-2);
 }
 
 .links {
@@ -53,7 +54,7 @@ color: tomato;}
 
 .portfolio-nav {
     color: var(--title-text-color);
-    background: #F5F4FA;
+    background: var(--background-color-2);
     font-family: inherit;
     font-size: 16px;
     text-align: center;
