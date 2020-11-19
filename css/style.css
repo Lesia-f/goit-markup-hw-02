@@ -80,7 +80,7 @@ color: tomato;}
     text-align: center; }
 
 button {
-        font-family: Roboto, sans-serif;
+        font-family: inherit;
         background: var(--accent-color);
         color: var(--accent-color-2);
         font-size: 16px;
