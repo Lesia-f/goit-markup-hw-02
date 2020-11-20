@@ -33,14 +33,12 @@ ul {
 .our-team { 
     background: var(--background-color-2);
 }
+ 
+
 
 .links .links-current {
     color: var(--title-text-color);
-    text-transform: capitalize;
-    font-size: 14px;
-    font-weight: 500;
-    line-height: 1.14;
-    letter-spacing: 0.02em;
+    
      }
 
 .links:hover ,
@@ -108,7 +106,13 @@ button {
 
  a {     
     text-decoration: none;
-    color: inherit; }
+    color: inherit; 
+    text-transform: capitalize;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 1.14;
+    letter-spacing: 0.02em;
+}
 
 h2 {
     
