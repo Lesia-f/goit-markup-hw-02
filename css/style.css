@@ -11,7 +11,7 @@ body {
     color: var(--title-text-color); }
 
 .logo { 
-font-family: 'Raleway';
+font-family: 'Raleway', sans-serif;
 color:var(--accent-color);
 font-size: 26px;
 font-weight: 700;
@@ -175,7 +175,7 @@ footer {
  }
  .logo-footer {
     color: var(--accent-color-2);
-    font-family: 'Raleway';
+    font-family: 'Raleway', sans-serif;
     font-size: 26px; 
     font-weight: 400; 
     line-height: 1.19;
